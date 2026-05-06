@@ -1,0 +1,6 @@
+year,kms_driven,fuel_type,seller_type,transmission,owner
+2018,45000,Petrol,Individual,Manual,First Owner
+2020,25000,Diesel,Dealer,Manual,First Owner
+2016,70000,Petrol,Individual,Manual,Second Owner
+2019,30000,Diesel,Dealer,Automatic,First Owner
+2015,90000,CNG,Individual,Manual,Third Owner
